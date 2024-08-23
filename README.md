@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Quentin Voß
+- 👀 I’m interested in coding & math
+- 🌱 I’m currently learning c#
+- 📫 How to reach me: dm me on LinkedIn
+- 😄 Pronouns: he/him/they/them idc
